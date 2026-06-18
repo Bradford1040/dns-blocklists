@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 06:17 UTC
-# Version: 2026.0618.0617.48
+# Last modified: 18 Jun 2026 17:40 UTC
+# Version: 2026.0618.1740.21
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2156
+# Number of entries: 2157
 #
 1-aclk.net
 1aurl.io
@@ -1419,6 +1419,7 @@ autos.lotlinx.com
 click.e.lowes.com
 t.lt02.net
 lt45.net
+t.ltrmnt.com
 monitor.lunio.ai
 click.mail.macmillan.com
 k.madmetrics.com

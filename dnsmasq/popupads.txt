@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 09:50 UTC
-# Version: 2026.0618.0950.27
+# Last modified: 18 Jun 2026 17:51 UTC
+# Version: 2026.0618.1751.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 58430
+# Number of entries: 58433
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -13623,6 +13623,7 @@ local=/baptisteyoga.com/
 local=/baptizecontributegreat.com/
 local=/baqsjlfdaorou.space/
 local=/baqtxlxxvtnwx.online/
+local=/barapolaran.shop/
 local=/barbarafervent.com/
 local=/barbchic.com/
 local=/barbedbluffybluffy.com/
@@ -32664,6 +32665,7 @@ local=/karafutem.com/
 local=/karaomula.com/
 local=/karawankenblick-velden.at/
 local=/kardon-rsa.com/
+local=/karedeutschland.com/
 local=/kargo.com/
 local=/karissavip.com/
 local=/karnslawfirm.com/
@@ -52432,6 +52434,7 @@ local=/turncdn.com/
 local=/turndynamicforbes.com/
 local=/turnerforbes.com/
 local=/turnhub.net/
+local=/turnipprivatenatives.com/
 local=/turnoffcaudex.com/
 local=/turnoffpfd.cyou/
 local=/turnplausible.com/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jun 2026 21:53 UTC
-! Version: 2026.0617.2153.45
+! Last modified: 18 Jun 2026 13:54 UTC
+! Version: 2026.0618.1354.10
 ! Syntax: AdBlock
-! Number of entries: 10054
+! Number of entries: 10057
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -2375,6 +2375,9 @@
 ||cdclub.net^
 ||cdcp.io^
 ||cden.co^
+||cdn-n.net^
+||cdn-x.net^
+||cdn-z.net^
 ||cdwus.com^
 ||ce-ism.org^
 ||ce0.net^

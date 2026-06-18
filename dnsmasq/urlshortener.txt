@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jun 2026 21:53 UTC
-# Version: 2026.0617.2153.45
+# Last modified: 18 Jun 2026 13:54 UTC
+# Version: 2026.0618.1354.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10054
+# Number of entries: 10057
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2374,6 +2374,9 @@ local=/cdat.ca/
 local=/cdclub.net/
 local=/cdcp.io/
 local=/cden.co/
+local=/cdn-n.net/
+local=/cdn-x.net/
+local=/cdn-z.net/
 local=/cdwus.com/
 local=/ce-ism.org/
 local=/ce0.net/
