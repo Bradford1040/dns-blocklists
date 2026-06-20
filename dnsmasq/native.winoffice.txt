@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2026 19:14 UTC
-# Version: 2026.0612.1914.17
+# Last modified: 19 Jun 2026 18:34 UTC
+# Version: 2026.0619.1834.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 388
+# Number of entries: 389
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -220,6 +220,7 @@ local=/t-ring-s.msedge.net/
 local=/t-ring-s2.msedge.net/
 local=/t-ring-trafficshield.msedge.net/
 local=/t-s1-ring.msedge.net/
+local=/t-s2-ring.msedge.net/
 local=/win10-trt.msedge.net/
 local=/metric.appex-rf.msn.com/
 local=/c.ar.msn.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2026 19:14 UTC
-# Version: 2026.0612.1914.17
+# Last modified: 19 Jun 2026 18:34 UTC
+# Version: 2026.0619.1834.49
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 746
+# Number of entries: 748
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -96,14 +96,12 @@ southindia-0.in.applicationinsights.azure.com
 spaincentral-0.in.applicationinsights.azure.com
 swedencentral-0.in.applicationinsights.azure.com
 switzerlandnorth-0.in.applicationinsights.azure.com
-uaenorth-0.in.applicationinsights.azure.com
 uksouth-0.in.applicationinsights.azure.com
 uksouth-1.in.applicationinsights.azure.com
 ukwest-0.in.applicationinsights.azure.com
 usgovarizona-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
-usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
@@ -397,6 +395,7 @@ uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
 us-teams.events.data.microsoft.com
@@ -497,6 +496,7 @@ t-ring-s.msedge.net
 t-ring-s2.msedge.net
 t-ring-trafficshield.msedge.net
 t-s1-ring.msedge.net
+t-s2-ring.msedge.net
 win10-trt.msedge.net
 ac2.msn.com
 ad.msn.com
@@ -618,6 +618,8 @@ exo.nelsdf.measure.office.net
 m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
+wan.measure.office.com
+www.measure.office.com
 prod.editor.ads.trafficmanager.net
 ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net

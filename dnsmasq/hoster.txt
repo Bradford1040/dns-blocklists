@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 07:08 UTC
-# Version: 2026.0619.0708.11
+# Last modified: 20 Jun 2026 02:10 UTC
+# Version: 2026.0620.0210.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1125
+# Number of entries: 1120
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -51,7 +51,6 @@ local=/000space.com/
 local=/000webapp.com/
 local=/000webhost.fr/
 local=/000webhostapp.com/
-local=/000webhotapp.com/
 local=/000worldwide.com/
 local=/00author.com/
 local=/00go.com/
@@ -144,7 +143,6 @@ local=/766.at/
 local=/8.je/
 local=/81x.com/
 local=/85d.de/
-local=/89.pl/
 local=/89q.sk/
 local=/8c8.de/
 local=/9.je/
@@ -177,7 +175,6 @@ local=/abstellen.de/
 local=/abwechslungsreiches.de/
 local=/ac6.de/
 local=/admarketlocation.com/
-local=/aeza.network/
 local=/ag.gp/
 local=/ag0rcgwjv5.com/
 local=/airset.com/
@@ -447,7 +444,6 @@ local=/events-games.com/
 local=/ewp.live/
 local=/exactpages.com/
 local=/ez-sites.ws/
-local=/ezyro.com/
 local=/f11.us/
 local=/facebookid.live/
 local=/faceboook-app.com/
@@ -1075,7 +1071,6 @@ local=/webn.cc/
 local=/webnode.com/
 local=/webnode.page/
 local=/webobo.com/
-local=/webpages.one/
 local=/webservis.ru/
 local=/website.at/
 local=/website-home.ws/

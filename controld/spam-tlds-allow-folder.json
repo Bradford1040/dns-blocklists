@@ -5272,6 +5272,13 @@
       }
     },
     {
+      "PK": "searchengine.party",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "searx.space",
       "action": {
         "do": 1,

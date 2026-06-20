@@ -2549,6 +2549,13 @@
       }
     },
     {
+      "PK": "t-s2-ring.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "udc.msn.com",
       "action": {
         "do": 0,

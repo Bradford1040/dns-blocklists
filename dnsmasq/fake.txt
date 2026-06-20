@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 06:40 UTC
-# Version: 2026.0619.0640.20
+# Last modified: 19 Jun 2026 18:45 UTC
+# Version: 2026.0619.1845.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17021
+# Number of entries: 17025
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -33,7 +33,6 @@ local=/gamer-held.b-cdn.net/
 local=/de.baerskinhoodie.com/
 local=/wwd.bags2020c.cz/
 local=/eu.bagsvalley.cn/
-local=/web.bdweurope.com/
 local=/0dgwn.bemobtrcks.com/
 local=/app.bilinterface.com/
 local=/m.bit2meua.com/
@@ -1007,6 +1006,7 @@ local=/aktionheizung.de/
 local=/aktionstag-familie2008.de/
 local=/aktivabenteuer.de/
 local=/aktivanzug.com/
+local=/aktivbike24.com/
 local=/aktivimfreien.com/
 local=/aktivmaxx.com/
 local=/akustikholz.shop/
@@ -6699,6 +6699,7 @@ local=/grapewinesales.com/
 local=/graphad.xyz/
 local=/graskaufen.net/
 local=/grasoftness.com/
+local=/gratanurex.net/
 local=/gratis-produkttests.com/
 local=/gratis-produkttests.de/
 local=/gratis-testen-aktionen.de/
@@ -8642,7 +8643,9 @@ local=/keycaps-vibe.com/
 local=/keyom.de/
 local=/kezono.com/
 local=/kfmdso.com/
+local=/kfznachweis.de/
 local=/kfzonlineabmelden.de/
+local=/kfzproof.de/
 local=/kfzteileverkaufen.com/
 local=/kgerad.de/
 local=/kgfghij.com/
@@ -8890,6 +8893,7 @@ local=/kreditberatungs.de/
 local=/kreditfuralle.com/
 local=/kredithaus24.eu/
 local=/kreditwizard.com/
+local=/kreherland.shop/
 local=/kremer-mode.de/
 local=/kremmling-moebel.com/
 local=/krf-mbh.com/
@@ -10612,6 +10616,7 @@ local=/mosessions.com/
 local=/mosmankoch.at/
 local=/mosmankoch.de/
 local=/mosplains.com/
+local=/mostorejoboutiquestore.com/
 local=/motallo.com/
 local=/motel-miio.com/
 local=/motelmio.shop/
@@ -10651,6 +10656,7 @@ local=/movilatino.com/
 local=/mowaconcept.com/
 local=/moxonline.de/
 local=/mpgarten-shop.de/
+local=/mpgartenshop.com/
 local=/mrair.xyz/
 local=/mrbikes.de/
 local=/mrhaushalt.de/
@@ -14410,6 +14416,7 @@ local=/steinhaus-berlin.co/
 local=/steinkamp-container.com/
 local=/steinkampbillig.com/
 local=/stelcore-retail24.de/
+local=/stellantis-workshop.com/
 local=/stellapet.xyz/
 local=/stellennavigator.com/
 local=/stelonira.com/
@@ -16133,8 +16140,6 @@ local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
 local=/vivaiaschuhesale.de/
 local=/vivaiaschweiz.com/
-local=/vivaldi-park.com/
-local=/vivaldiparking.com/
 local=/vivaraisehome.com/
 local=/vivensowasserstaubsauger.de/
 local=/vivibo-kueche.de/
@@ -16247,7 +16252,6 @@ local=/vuigodeutschland.de/
 local=/vulcanus.at/
 local=/vumonvision.com/
 local=/vutereck.com/
-local=/vuxocap.co/
 local=/vwutaq.com/
 local=/vyjak.com/
 local=/vynox.de/

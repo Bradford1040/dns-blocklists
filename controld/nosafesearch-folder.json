@@ -295,6 +295,13 @@
       }
     },
     {
+      "PK": "neeva.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "nibblehole.com",
       "action": {
         "do": 0,
@@ -953,6 +960,13 @@
       }
     },
     {
+      "PK": "searx.feneas.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searx.foo.li",
       "action": {
         "do": 0,
@@ -989,6 +1003,13 @@
     },
     {
       "PK": "searx.info",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "searx.ir",
       "action": {
         "do": 0,
         "status": 1

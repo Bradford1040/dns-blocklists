@@ -393,6 +393,13 @@
       }
     },
     {
+      "PK": "logs.qa.ap.int.roku.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "logs.roku.com",
       "action": {
         "do": 0,

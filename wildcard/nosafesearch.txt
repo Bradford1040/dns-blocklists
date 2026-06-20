@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 16:50 UTC
-# Version: 2026.0524.1650.27
+# Last modified: 19 Jun 2026 18:17 UTC
+# Version: 2026.0619.1817.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 204
+# Number of entries: 207
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -64,6 +64,7 @@
 *.results.excite.com
 *.search.fascinated.cc
 *.search.femboy.ad
+*.searx.feneas.org
 *.searx.foo.li
 *.search.freestater.org
 *.search.funami.tech
@@ -176,6 +177,7 @@
 *.mojeek.com
 *.monstercrawler.com
 *.mwmbl.org
+*.neeva.com
 *.nibblehole.com
 *.nigma.eu
 *.null.media
@@ -195,6 +197,7 @@
 *.searx.bar
 *.searx.ch
 *.searx.info
+*.searx.ir
 *.searx.ninja
 *.searx.org
 *.searx.party

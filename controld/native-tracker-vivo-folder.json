@@ -505,6 +505,13 @@
       }
     },
     {
+      "PK": "eu-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-cota.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1325,6 +1332,13 @@
     },
     {
       "PK": "tr-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-err-up.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

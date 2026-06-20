@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 06:42 UTC
-# Version: 2026.0619.0642.10
+# Last modified: 19 Jun 2026 18:20 UTC
+# Version: 2026.0619.1820.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 10058
+# Number of entries: 10063
 #
 a.189.cn
 t.2merkato.com
@@ -1235,6 +1235,7 @@ go.zordo.net
 669969.xyz
 669988.xyz
 66biolinks.com
+676.su
 69run.fun
 6b.cz
 6bit.in
@@ -1291,7 +1292,6 @@ go.zordo.net
 8tm.net
 8u.cz
 8u.pw
-9.ly
 900r.ir
 92url.com
 93.link
@@ -2892,6 +2892,7 @@ demcon24.com
 demolink.net
 dems.me
 depedzn.net
+derpy.me
 designcommerce.agency
 designrigs.com
 desin.me
@@ -3978,6 +3979,7 @@ hirummy.life
 hisc.app
 histori.ca
 hisweb.site
+hit.kg
 hitlap.com
 hiturl.at
 hiurls.com
@@ -4111,6 +4113,7 @@ iamsrikrung.com
 iandavid.net
 iapdw.com
 iarly.com
+iatp.by
 ibb.co
 ibd.ink
 ibelocal.com
@@ -4355,7 +4358,6 @@ iurl.pk
 iurl.us
 iuu.ro
 ivtshort.com
-iwo.ir
 iwr.link
 iwwlink.org
 ix.sk
@@ -4453,6 +4455,7 @@ joiner.co
 joinzee.com
 jomblo.org
 jonty.link
+joo.gl
 joo.nz
 joomconnect.com
 jos.bio
@@ -5364,7 +5367,6 @@ lup.to
 lur.to
 lur.us
 lurl.cc
-lurl.fr
 lurl.org
 lutendo.tech
 luto.lol
@@ -6453,7 +6455,6 @@ playtr.games
 plcr.ai
 pldthome.info
 pli.su
-plink.ir
 plinkzy.com
 plmst.org
 plots.fr
@@ -8438,6 +8439,7 @@ tiny.lt
 tiny.ms
 tiny.one
 tiny.pl
+tiny.sg
 tiny.sm
 tiny.tw
 tiny.us
@@ -8806,6 +8808,7 @@ twou.co
 twr.kr
 twrd.in
 twtr.in
+twtr.to
 twurl.cc
 twurl.net
 twurl.nl
@@ -8839,6 +8842,7 @@ u3vw.shop
 u4r.net
 u4y.ch
 u6e.de
+u6v.cn
 u99.pro
 u9x.wtf
 uabio.me
@@ -9280,6 +9284,7 @@ v68.io
 va.lk
 vaca.sh
 vaddev.de
+vai.la
 vai.li
 vai.onl
 vaila.me
@@ -9461,7 +9466,6 @@ vypij.bar
 vyr.me
 vytext.com
 vz.to
-vzturl.com
 w.app
 w.wiki
 w09.ru
@@ -9574,6 +9578,7 @@ whatel.se
 whbk.io
 whcs.law
 wheel.to
+whereel.se
 whi.ch
 whiteclickaffiliates.com
 whoel.se

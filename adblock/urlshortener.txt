@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Jun 2026 06:42 UTC
-! Version: 2026.0619.0642.10
+! Last modified: 19 Jun 2026 18:20 UTC
+! Version: 2026.0619.1820.17
 ! Syntax: AdBlock
-! Number of entries: 10058
+! Number of entries: 10063
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -1236,6 +1236,7 @@
 ||669969.xyz^
 ||669988.xyz^
 ||66biolinks.com^
+||676.su^
 ||69run.fun^
 ||6b.cz^
 ||6bit.in^
@@ -1292,7 +1293,6 @@
 ||8tm.net^
 ||8u.cz^
 ||8u.pw^
-||9.ly^
 ||900r.ir^
 ||92url.com^
 ||93.link^
@@ -2893,6 +2893,7 @@
 ||demolink.net^
 ||dems.me^
 ||depedzn.net^
+||derpy.me^
 ||designcommerce.agency^
 ||designrigs.com^
 ||desin.me^
@@ -3979,6 +3980,7 @@
 ||hisc.app^
 ||histori.ca^
 ||hisweb.site^
+||hit.kg^
 ||hitlap.com^
 ||hiturl.at^
 ||hiurls.com^
@@ -4112,6 +4114,7 @@
 ||iandavid.net^
 ||iapdw.com^
 ||iarly.com^
+||iatp.by^
 ||ibb.co^
 ||ibd.ink^
 ||ibelocal.com^
@@ -4356,7 +4359,6 @@
 ||iurl.us^
 ||iuu.ro^
 ||ivtshort.com^
-||iwo.ir^
 ||iwr.link^
 ||iwwlink.org^
 ||ix.sk^
@@ -4454,6 +4456,7 @@
 ||joinzee.com^
 ||jomblo.org^
 ||jonty.link^
+||joo.gl^
 ||joo.nz^
 ||joomconnect.com^
 ||jos.bio^
@@ -5365,7 +5368,6 @@
 ||lur.to^
 ||lur.us^
 ||lurl.cc^
-||lurl.fr^
 ||lurl.org^
 ||lutendo.tech^
 ||luto.lol^
@@ -6454,7 +6456,6 @@
 ||plcr.ai^
 ||pldthome.info^
 ||pli.su^
-||plink.ir^
 ||plinkzy.com^
 ||plmst.org^
 ||plots.fr^
@@ -8439,6 +8440,7 @@
 ||tiny.ms^
 ||tiny.one^
 ||tiny.pl^
+||tiny.sg^
 ||tiny.sm^
 ||tiny.tw^
 ||tiny.us^
@@ -8807,6 +8809,7 @@
 ||twr.kr^
 ||twrd.in^
 ||twtr.in^
+||twtr.to^
 ||twurl.cc^
 ||twurl.net^
 ||twurl.nl^
@@ -8840,6 +8843,7 @@
 ||u4r.net^
 ||u4y.ch^
 ||u6e.de^
+||u6v.cn^
 ||u99.pro^
 ||u9x.wtf^
 ||uabio.me^
@@ -9281,6 +9285,7 @@
 ||va.lk^
 ||vaca.sh^
 ||vaddev.de^
+||vai.la^
 ||vai.li^
 ||vai.onl^
 ||vaila.me^
@@ -9462,7 +9467,6 @@
 ||vyr.me^
 ||vytext.com^
 ||vz.to^
-||vzturl.com^
 ||w.app^
 ||w.wiki^
 ||w09.ru^
@@ -9575,6 +9579,7 @@
 ||whbk.io^
 ||whcs.law^
 ||wheel.to^
+||whereel.se^
 ||whi.ch^
 ||whiteclickaffiliates.com^
 ||whoel.se^

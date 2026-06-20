@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2026 19:20 UTC
-# Version: 2026.0612.1920.19
+# Last modified: 19 Jun 2026 18:41 UTC
+# Version: 2026.0619.1841.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 224
+# Number of entries: 226
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
 az.appstore.vivo.com.cn
@@ -89,6 +89,7 @@ co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
 err-up.vivoglobal.com
+eu-album-api.vivoglobal.com
 eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
@@ -201,6 +202,7 @@ stsdk.vivoglobal.com
 tr-album-api.vivoglobal.com
 tr-cota.vivoglobal.com
 tr-domaincfg.vivoglobal.com
+tr-err-up.vivoglobal.com
 tr-gdpr-vgc-datacenter.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
