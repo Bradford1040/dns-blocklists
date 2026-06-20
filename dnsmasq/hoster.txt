@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 07:03 UTC
-# Version: 2026.0620.0703.33
+# Last modified: 20 Jun 2026 13:34 UTC
+# Version: 2026.0620.1334.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1121
+# Number of entries: 1115
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -50,7 +50,6 @@ local=/000nethost.com/
 local=/000space.com/
 local=/000webapp.com/
 local=/000webhost.fr/
-local=/000webhostapp.com/
 local=/000worldwide.com/
 local=/00author.com/
 local=/00go.com/
@@ -157,7 +156,6 @@ local=/a3n.de/
 local=/aa6.de/
 local=/aa8.de/
 local=/aa9.de/
-local=/aba.ae/
 local=/aba.vg/
 local=/abbremsen.de/
 local=/abfertigen.de/
@@ -371,7 +369,6 @@ local=/d.gp/
 local=/d3l.de/
 local=/da.cx/
 local=/daftpage.com/
-local=/dailyuploads.net/
 local=/dardarkom.com/
 local=/ddl2.pl/
 local=/de.cm/
@@ -411,7 +408,6 @@ local=/ecomplanet.com/
 local=/edgeone.app/
 local=/edgeone.dev/
 local=/edoctransfer.com/
-local=/edu.eu/
 local=/educatorpage.com/
 local=/educatorpages.com/
 local=/efacturas.net/
@@ -774,7 +770,6 @@ local=/newmail.ru/
 local=/nexmicrosystems.com/
 local=/nicepage.io/
 local=/nichesite.org/
-local=/nip.io/
 local=/nl.gp/
 local=/nl.kg/
 local=/noads.biz/
@@ -1063,7 +1058,6 @@ local=/web-clan.de/
 local=/web1337.net/
 local=/webaccess-alert.com/
 local=/webaccess-email.com/
-local=/webador.com/
 local=/webblog24.de/
 local=/webboss.site/
 local=/webcindario.com/

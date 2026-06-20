@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Jun 2026 07:03 UTC
-! Version: 2026.0620.0703.33
+! Last modified: 20 Jun 2026 13:34 UTC
+! Version: 2026.0620.1334.49
 ! Syntax: AdBlock
-! Number of entries: 1121
+! Number of entries: 1115
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
@@ -51,7 +51,6 @@
 ||000space.com^
 ||000webapp.com^
 ||000webhost.fr^
-||000webhostapp.com^
 ||000worldwide.com^
 ||00author.com^
 ||00go.com^
@@ -158,7 +157,6 @@
 ||aa6.de^
 ||aa8.de^
 ||aa9.de^
-||aba.ae^
 ||aba.vg^
 ||abbremsen.de^
 ||abfertigen.de^
@@ -372,7 +370,6 @@
 ||d3l.de^
 ||da.cx^
 ||daftpage.com^
-||dailyuploads.net^
 ||dardarkom.com^
 ||ddl2.pl^
 ||de.cm^
@@ -412,7 +409,6 @@
 ||edgeone.app^
 ||edgeone.dev^
 ||edoctransfer.com^
-||edu.eu^
 ||educatorpage.com^
 ||educatorpages.com^
 ||efacturas.net^
@@ -775,7 +771,6 @@
 ||nexmicrosystems.com^
 ||nicepage.io^
 ||nichesite.org^
-||nip.io^
 ||nl.gp^
 ||nl.kg^
 ||noads.biz^
@@ -1064,7 +1059,6 @@
 ||web1337.net^
 ||webaccess-alert.com^
 ||webaccess-email.com^
-||webador.com^
 ||webblog24.de^
 ||webboss.site^
 ||webcindario.com^

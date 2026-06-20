@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 07:29 UTC
-# Version: 2026.0620.0729.35
+# Last modified: 20 Jun 2026 11:13 UTC
+# Version: 2026.0620.1113.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 28420
+# Number of entries: 28423
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -1712,6 +1712,7 @@ tracker.zum.bi
 123movies9.farm
 123movies9.fun
 123movies9.mom
+123movies9.nl
 123movies9.rest
 123movies9.skin
 123movies9.surf
@@ -9155,6 +9156,7 @@ hianime.dk
 hianime.nz
 hianime.sx
 hianime.to
+hianime.win
 hianimes.ro
 hianimetv.cfd
 hianimez.is
@@ -19031,6 +19033,7 @@ megakino4.to
 megakino5.com
 megakino5.org
 megakino6.com
+megakino7.com
 megakinohd2026.online
 megakinox.top
 megamanmaker.com

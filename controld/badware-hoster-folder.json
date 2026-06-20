@@ -57,13 +57,6 @@
       }
     },
     {
-      "PK": "000webhostapp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "000worldwide.com",
       "action": {
         "do": 0,
@@ -835,13 +828,6 @@
     },
     {
       "PK": "aa9.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aba.ae",
       "action": {
         "do": 0,
         "status": 1
@@ -2381,13 +2367,6 @@
       }
     },
     {
-      "PK": "dailyuploads.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dardarkom.com",
       "action": {
         "do": 0,
@@ -2655,13 +2634,6 @@
     },
     {
       "PK": "edoctransfer.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "edu.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -5272,13 +5244,6 @@
       }
     },
     {
-      "PK": "nip.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "nl.gp",
       "action": {
         "do": 0,
@@ -7359,13 +7324,6 @@
     },
     {
       "PK": "webaccess-email.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "webador.com",
       "action": {
         "do": 0,
         "status": 1

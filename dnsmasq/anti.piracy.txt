@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 07:29 UTC
-# Version: 2026.0620.0729.35
+# Last modified: 20 Jun 2026 11:13 UTC
+# Version: 2026.0620.1113.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 28420
+# Number of entries: 28423
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -1712,6 +1712,7 @@ local=/123movies9.digital/
 local=/123movies9.farm/
 local=/123movies9.fun/
 local=/123movies9.mom/
+local=/123movies9.nl/
 local=/123movies9.rest/
 local=/123movies9.skin/
 local=/123movies9.surf/
@@ -9155,6 +9156,7 @@ local=/hianime.dk/
 local=/hianime.nz/
 local=/hianime.sx/
 local=/hianime.to/
+local=/hianime.win/
 local=/hianimes.ro/
 local=/hianimetv.cfd/
 local=/hianimez.is/
@@ -19031,6 +19033,7 @@ local=/megakino4.to/
 local=/megakino5.com/
 local=/megakino5.org/
 local=/megakino6.com/
+local=/megakino7.com/
 local=/megakinohd2026.online/
 local=/megakinox.top/
 local=/megamanmaker.com/

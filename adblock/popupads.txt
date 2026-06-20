@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Jun 2026 06:35 UTC
-! Version: 2026.0620.0635.22
+! Last modified: 20 Jun 2026 13:03 UTC
+! Version: 2026.0620.1303.52
 ! Syntax: AdBlock
-! Number of entries: 58455
+! Number of entries: 58445
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -444,9 +444,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1870,15 +1867,6 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
-||app-google-zh.hl.cn^
-||go-todesk.hl.cn^
-||google-google-chrome-google-com.hl.cn^
-||line-go.hl.cn^
-||qh-qishuiyinyue.hl.cn^
-||qishuimusic-cn.hl.cn^
-||todesk-web.hl.cn^
-||todesk-zh.hl.cn^
-||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||dciclc.hnwuamu.top^
 ||m10.hoes.tube^
@@ -2151,8 +2139,6 @@
 ||vg.konigakeyset.top^
 ||mf.kotocolmar.com^
 ||hl.koumyscampana.com^
-||lc.krgirls.beauty^
-||me.krgirls.beauty^
 ||ym.kronionsuttas.com^
 ||kp.kueunpick.com^
 ||ms.kuugo.cc^
@@ -13686,6 +13672,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -29118,6 +29105,7 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
+||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -33351,6 +33339,7 @@
 ||kreomfoq.com^
 ||kreps.xyz^
 ||krfqlrxvmoyrj.online^
+||krgirls.beauty^
 ||krhmtdzuxxmsc.space^
 ||krible-krable-bums.com^
 ||krigiamisdeal.click^
@@ -42496,6 +42485,7 @@
 ||popdemission.com^
 ||popeai.com^
 ||poperblocker.com^
+||popestorsk.cyou^
 ||popetechs.com^
 ||popgoldblocker.info^
 ||pophandler.net^
