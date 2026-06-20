@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 11:53 UTC
-# Version: 2026.0615.1153.58
+# Last modified: 20 Jun 2026 16:22 UTC
+# Version: 2026.0620.1622.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3894
+# Number of entries: 3889
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -373,7 +373,6 @@
 0.0.0.0 dns.ares-taiwan.com
 0.0.0.0 aridia.ru
 0.0.0.0 dns.arkbotech.com
-0.0.0.0 doh.armadillodns.net
 0.0.0.0 nsec.arnor.org
 0.0.0.0 dns.articrevised.cc
 0.0.0.0 dns.artikel10.org
@@ -1455,7 +1454,6 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
@@ -1798,7 +1796,6 @@
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 guanmengkai.com
 0.0.0.0 dns.guard.io
-0.0.0.0 dns.guardmydns.com
 0.0.0.0 guidetoworld.link
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 homedns.gumeniuk.com
@@ -2039,7 +2036,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 mnsvless.ikwb.com
-0.0.0.0 ilinhy.com
 0.0.0.0 dns.imaicool.com
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
@@ -2906,7 +2902,6 @@
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
-0.0.0.0 loan.paymdm.xyz
 0.0.0.0 vps-ovh.pb2004.pl
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 pcgo.fun

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 11:53 UTC
-# Version: 2026.0615.1153.58
+# Last modified: 20 Jun 2026 16:22 UTC
+# Version: 2026.0620.1622.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 3441
+# Number of entries: 3436
 #
 ss.0001.xyz
 ns.00dani.me
@@ -245,7 +245,6 @@ dns.arapurayil.com
 doh.archuser.org
 dns.ares-taiwan.com
 dns.arkbotech.com
-doh.armadillodns.net
 nsec.arnor.org
 dns.articrevised.cc
 dns.artikel10.org
@@ -1057,7 +1056,6 @@ adguard.ekhozie.dynu.net
 ccadguard.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
-saomai.dynu.com
 gustamadh.dynv6.net
 dns.dynx.pro
 adg.dz.ax
@@ -1342,7 +1340,6 @@ vps.grussenmeyer.com
 dns.gsmseti.net
 bigseal1.gu-natee.uk
 dns.guard.io
-dns.guardmydns.com
 dns2.guidocioni.it
 homedns.gumeniuk.com
 dns.gupthabrothers.in
@@ -2192,7 +2189,6 @@ dns.pastorov.ru
 wg.pastorov.ru
 nas.patrick-antoine.fr
 dns.paxavemedia.com
-loan.paymdm.xyz
 vps-ovh.pb2004.pl
 dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
@@ -3175,7 +3171,6 @@ i-puppy.ru
 ib.systems
 iij.jp
 ikarosalpha.xyz
-ilinhy.com
 imperio.top
 incaseineeditoneday.com
 ingenmannsland.online

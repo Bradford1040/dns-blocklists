@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 13:34 UTC
-# Version: 2026.0620.1334.49
+# Last modified: 20 Jun 2026 15:40 UTC
+# Version: 2026.0620.1540.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1115
+# Number of entries: 1095
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -19,7 +19,6 @@ local=/premiumbyleo.co.cc/
 local=/surfblocked.co.cc/
 local=/thamboli.co.za/
 local=/universitriat.co.cc/
-local=/blogspot.com.es/
 local=/encurtador.com.br/
 local=/kl.com.ua/
 local=/webnode.com.pt/
@@ -96,7 +95,6 @@ local=/1x.net/
 local=/1x7.de/
 local=/2.je/
 local=/204.at/
-local=/20m.us/
 local=/24.eu/
 local=/24.gg/
 local=/24.gp/
@@ -124,7 +122,6 @@ local=/3d-ul.ir/
 local=/3ya.de/
 local=/4.je/
 local=/42t.com/
-local=/42web.io/
 local=/433.at/
 local=/4everland.app/
 local=/4kp.de/
@@ -240,7 +237,6 @@ local=/bityl.co/
 local=/bitzli.ch/
 local=/biz.ps/
 local=/biz.tc/
-local=/blackapplehost.com/
 local=/blatnet.com/
 local=/blltly.com/
 local=/blog.lc/
@@ -249,34 +245,18 @@ local=/blogcheese.com/
 local=/bloggt.de/
 local=/blogmonster.de/
 local=/blogspot.ae/
-local=/blogspot.am/
 local=/blogspot.ba/
 local=/blogspot.be/
 local=/blogspot.bg/
-local=/blogspot.ca/
 local=/blogspot.ch/
-local=/blogspot.cz/
 local=/blogspot.de/
-local=/blogspot.dk/
 local=/blogspot.fi/
 local=/blogspot.fr/
-local=/blogspot.gr/
-local=/blogspot.hk/
 local=/blogspot.in/
-local=/blogspot.it/
-local=/blogspot.jp/
-local=/blogspot.li/
 local=/blogspot.lu/
-local=/blogspot.mx/
-local=/blogspot.nl/
-local=/blogspot.no/
 local=/blogspot.org/
 local=/blogspot.pt/
-local=/blogspot.rs/
-local=/blogspot.ru/
-local=/blogspot.se/
 local=/blogspot.sk/
-local=/blogspot.sn/
 local=/blogspot.tw/
 local=/bo.gp/
 local=/boxmode.io/

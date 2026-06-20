@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 11:53 UTC
-# Version: 2026.0615.1153.58
+# Last modified: 20 Jun 2026 16:22 UTC
+# Version: 2026.0620.1622.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3894
+# Number of entries: 3889
 #
 ss.0001.xyz
 003153.xyz
@@ -373,7 +373,6 @@ arcticstorm.ru
 dns.ares-taiwan.com
 aridia.ru
 dns.arkbotech.com
-doh.armadillodns.net
 nsec.arnor.org
 dns.articrevised.cc
 dns.artikel10.org
@@ -1455,7 +1454,6 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
-saomai.dynu.com
 gustamadh.dynv6.net
 dns.dynx.pro
 adg.dz.ax
@@ -1798,7 +1796,6 @@ dns.gsmseti.net
 bigseal1.gu-natee.uk
 guanmengkai.com
 dns.guard.io
-dns.guardmydns.com
 guidetoworld.link
 dns2.guidocioni.it
 homedns.gumeniuk.com
@@ -2039,7 +2036,6 @@ public.dns.iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
 mnsvless.ikwb.com
-ilinhy.com
 dns.imaicool.com
 ad.imblien.com
 noads.imbuffering.com
@@ -2906,7 +2902,6 @@ dns.pastorov.ru
 wg.pastorov.ru
 nas.patrick-antoine.fr
 dns.paxavemedia.com
-loan.paymdm.xyz
 vps-ovh.pb2004.pl
 dns.pccoach.nl
 pcgo.fun

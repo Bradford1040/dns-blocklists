@@ -393,13 +393,6 @@
       }
     },
     {
-      "PK": "20m.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "24.co.at",
       "action": {
         "do": 0,
@@ -604,13 +597,6 @@
     },
     {
       "PK": "42t.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "42web.io",
       "action": {
         "do": 0,
         "status": 1
@@ -1443,13 +1429,6 @@
       }
     },
     {
-      "PK": "blackapplehost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blatnet.com",
       "action": {
         "do": 0,
@@ -1513,13 +1492,6 @@
       }
     },
     {
-      "PK": "blogspot.am",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.ba",
       "action": {
         "do": 0,
@@ -1541,13 +1513,6 @@
       }
     },
     {
-      "PK": "blogspot.ca",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.ch",
       "action": {
         "do": 0,
@@ -1555,28 +1520,7 @@
       }
     },
     {
-      "PK": "blogspot.com.es",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.cz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.dk",
       "action": {
         "do": 0,
         "status": 1
@@ -1597,20 +1541,6 @@
       }
     },
     {
-      "PK": "blogspot.gr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.hk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.in",
       "action": {
         "do": 0,
@@ -1618,49 +1548,7 @@
       }
     },
     {
-      "PK": "blogspot.it",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.jp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.li",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.lu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.mx",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.nl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.no",
       "action": {
         "do": 0,
         "status": 1
@@ -1681,35 +1569,7 @@
       }
     },
     {
-      "PK": "blogspot.rs",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.se",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspot.sk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.sn",
       "action": {
         "do": 0,
         "status": 1

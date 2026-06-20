@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 11:53 UTC
-# Version: 2026.0615.1153.58
+# Last modified: 20 Jun 2026 16:22 UTC
+# Version: 2026.0620.1622.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3441
+# Number of entries: 3436
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -245,7 +245,6 @@ local=/dns.arapurayil.com/
 local=/doh.archuser.org/
 local=/dns.ares-taiwan.com/
 local=/dns.arkbotech.com/
-local=/doh.armadillodns.net/
 local=/nsec.arnor.org/
 local=/dns.articrevised.cc/
 local=/dns.artikel10.org/
@@ -1057,7 +1056,6 @@ local=/adguard.ekhozie.dynu.net/
 local=/ccadguard.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
-local=/saomai.dynu.com/
 local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/adg.dz.ax/
@@ -1342,7 +1340,6 @@ local=/vps.grussenmeyer.com/
 local=/dns.gsmseti.net/
 local=/bigseal1.gu-natee.uk/
 local=/dns.guard.io/
-local=/dns.guardmydns.com/
 local=/dns2.guidocioni.it/
 local=/homedns.gumeniuk.com/
 local=/dns.gupthabrothers.in/
@@ -2192,7 +2189,6 @@ local=/dns.pastorov.ru/
 local=/wg.pastorov.ru/
 local=/nas.patrick-antoine.fr/
 local=/dns.paxavemedia.com/
-local=/loan.paymdm.xyz/
 local=/vps-ovh.pb2004.pl/
 local=/dns.pccoach.nl/
 local=/rpz-public-resolver1.rrdns.pch.net/
@@ -3175,7 +3171,6 @@ local=/i-puppy.ru/
 local=/ib.systems/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
-local=/ilinhy.com/
 local=/imperio.top/
 local=/incaseineeditoneday.com/
 local=/ingenmannsland.online/
