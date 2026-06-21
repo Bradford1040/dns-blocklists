@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jun 2026 07:16 UTC
-# Version: 2026.0621.0716.33
+# Last modified: 21 Jun 2026 13:19 UTC
+# Version: 2026.0621.1319.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1094
+# Number of entries: 1099
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -49,6 +49,7 @@ local=/000nethost.com/
 local=/000space.com/
 local=/000webapp.com/
 local=/000webhost.fr/
+local=/000webhotapp.com/
 local=/000worldwide.com/
 local=/00author.com/
 local=/00go.com/
@@ -170,6 +171,7 @@ local=/abstellen.de/
 local=/abwechslungsreiches.de/
 local=/ac6.de/
 local=/admarketlocation.com/
+local=/aeza.network/
 local=/ag.gp/
 local=/ag0rcgwjv5.com/
 local=/airset.com/
@@ -387,6 +389,7 @@ local=/ecomplanet.com/
 local=/edgeone.app/
 local=/edgeone.dev/
 local=/edoctransfer.com/
+local=/edu.eu/
 local=/educatorpage.com/
 local=/educatorpages.com/
 local=/efacturas.net/
@@ -420,6 +423,7 @@ local=/events-games.com/
 local=/ewp.live/
 local=/exactpages.com/
 local=/ez-sites.ws/
+local=/ezyro.com/
 local=/f11.us/
 local=/facebookid.live/
 local=/faceboook-app.com/
@@ -1045,6 +1049,7 @@ local=/webn.cc/
 local=/webnode.com/
 local=/webnode.page/
 local=/webobo.com/
+local=/webpages.one/
 local=/webservis.ru/
 local=/website.at/
 local=/website-home.ws/

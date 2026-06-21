@@ -57,6 +57,13 @@
       }
     },
     {
+      "PK": "000webhotapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000worldwide.com",
       "action": {
         "do": 0,
@@ -940,6 +947,13 @@
     },
     {
       "PK": "admarketlocation.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aeza.network",
       "action": {
         "do": 0,
         "status": 1
@@ -2493,6 +2507,13 @@
       }
     },
     {
+      "PK": "edu.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "educatorpage.com",
       "action": {
         "do": 0,
@@ -2725,6 +2746,13 @@
     },
     {
       "PK": "ez-sites.ws",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ezyro.com",
       "action": {
         "do": 0,
         "status": 1
@@ -7240,6 +7268,13 @@
     },
     {
       "PK": "webobo.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "webpages.one",
       "action": {
         "do": 0,
         "status": 1

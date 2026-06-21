@@ -756,6 +756,13 @@
       }
     },
     {
+      "PK": "bk.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.black",
       "action": {
         "do": 0,
@@ -883,6 +890,13 @@
     },
     {
       "PK": "brexx.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "brothersinarms.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -2285,6 +2299,13 @@
       "PK": "*.energy",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "enerjoy.life",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -7939,6 +7960,13 @@
     },
     {
       "PK": "treebal.green",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tri.haus",
       "action": {
         "do": 1,
         "status": 1
