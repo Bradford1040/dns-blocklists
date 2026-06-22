@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Jun 2026 07:48 UTC
-! Version: 2026.0621.0748.58
+! Last modified: 22 Jun 2026 08:17 UTC
+! Version: 2026.0622.0817.30
 ! Syntax: AdBlock
 ! Number of entries: 271
 !
