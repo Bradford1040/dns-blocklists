@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 06:41 UTC
-! Version: 2026.0625.0641.58
+! Last modified: 26 Jun 2026 06:41 UTC
+! Version: 2026.0626.0641.26
 ! Syntax: AdBlock
-! Number of entries: 1523
+! Number of entries: 1528
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -261,8 +261,10 @@
 ||m-5fwyg.custobar.com^
 ||m-6pyms.custobar.com^
 ||m-7uz3v.custobar.com^
+||m-b2o72.custobar.com^
 ||m-eqxt2.custobar.com^
 ||m-fi32s.custobar.com^
+||m-fucdf.custobar.com^
 ||m-gzmk5.custobar.com^
 ||m-hju7x.custobar.com^
 ||m-htgjb.custobar.com^
@@ -368,6 +370,7 @@
 ||suite30.emarsys.net^
 ||suite30-cdnnet.emarsys.net^
 ||suite30-cf.emarsys.net^
+||suite32.emarsys.net^
 ||suite33.emarsys.net^
 ||suite33-cf.emarsys.net^
 ||suite34.emarsys.net^
@@ -611,6 +614,7 @@
 ||click.mfilter.net^
 ||clk.mfilter.net^
 ||track.mfilter.net^
+||email.microsoft.com^
 ||go.microsoft.com^
 ||target.microsoft.com^
 ||click.email.microsoftemail.com^
@@ -1182,6 +1186,7 @@
 ||micpn.com^
 ||mkto-a0279.com^
 ||mkto-ab010150.com^
+||mkto-ab030019.com^
 ||mkto-ab040115.com^
 ||mkto-ab040117.com^
 ||mkto-ab060101.com^
@@ -1266,10 +1271,10 @@
 ||mkto-ab540186.com^
 ||mkto-ab550041.com^
 ||mkto-ab550140.com^
-||mkto-ab550144.com^
 ||mkto-ab550184.com^
 ||mkto-ab560068.com^
 ||mkto-ab560119.com^
+||mkto-ab560171.com^
 ||mkto-ab570110.com^
 ||mkto-ab570128.com^
 ||mkto-ab580004.com^

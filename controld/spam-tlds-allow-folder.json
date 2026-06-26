@@ -330,6 +330,13 @@
       }
     },
     {
+      "PK": "appchance.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "appetit.fit",
       "action": {
         "do": 1,
@@ -3880,6 +3887,13 @@
     },
     {
       "PK": "music-merchant.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mycafe.games",
       "action": {
         "do": 1,
         "status": 1

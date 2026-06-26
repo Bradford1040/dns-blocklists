@@ -110,6 +110,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hos
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
+https://raw.githubusercontent.com/binluv1905/C2/refs/heads/master/phishing
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/refs/heads/master/hosts
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-regional.txt
@@ -179,6 +180,8 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
 https://raw.githubusercontent.com/Iqbalnoorkhan/Malicious/main/Domain%20Threat%20Intelligence%20Feed.txt
 https://raw.githubusercontent.com/ITtoB/Main/refs/heads/main/DNSBL.txt
+https://raw.githubusercontent.com/jankais3r/Synology-Safe-Access-domain-list/refs/heads/master/malware.txt
+https://raw.githubusercontent.com/jankais3r/Synology-Safe-Access-domain-list/refs/heads/master/phishing.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
 https://raw.githubusercontent.com/JRehbergCSK/Indicators-Blocklists/refs/heads/main/blocklist.csv
@@ -292,6 +295,8 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
 https://siberguvenlik.gov.tr/zararli-baglantilar
 https://small.oisd.nl
+https://spydisec.com/maliciousblocklist.txt
+https://spydisec.com/spamblocklist.txt
 https://storage.rosti.dev/feeds/adblock-cnc.txt
 https://storage.rosti.dev/feeds/adblock.txt
 https://threatfox.abuse.ch/downloads/hostfile
