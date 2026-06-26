@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jun 2026 11:32 UTC
-! Version: 2026.0626.1132.11
+! Last modified: 26 Jun 2026 19:06 UTC
+! Version: 2026.0626.1906.35
 ! Syntax: AdBlock
-! Number of entries: 16852
+! Number of entries: 16850
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -5486,7 +5486,6 @@
 ||figurinestoys.com^
 ||filamentmarkt.com^
 ||filamniceent.com^
-||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
 ||filloutlet.com^
@@ -6986,7 +6985,6 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
-||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 10:37 UTC
-# Version: 2026.0620.1037.59
+# Last modified: 26 Jun 2026 18:51 UTC
+# Version: 2026.0626.1851.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 705
+# Number of entries: 706
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -255,6 +255,7 @@
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com

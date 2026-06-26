@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:41 UTC
-# Version: 2026.0619.1841.49
+# Last modified: 26 Jun 2026 18:59 UTC
+# Version: 2026.0626.1859.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 226
+# Number of entries: 227
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
@@ -154,6 +154,7 @@ local=/kz-stsdk.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/kz-vcode-or.vivoglobal.com/
 local=/monitor-stsdk.vivoglobal.com/
+local=/mx-album-api.vivoglobal.com/
 local=/mx-cota.vivoglobal.com/
 local=/mx-domaincfg.vivoglobal.com/
 local=/mx-err-up.vivoglobal.com/

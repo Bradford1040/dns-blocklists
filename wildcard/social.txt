@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:32 UTC
-# Version: 2026.0619.1832.03
+# Last modified: 26 Jun 2026 18:49 UTC
+# Version: 2026.0626.1849.43
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 900
 #

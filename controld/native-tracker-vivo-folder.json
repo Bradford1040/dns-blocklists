@@ -967,6 +967,13 @@
       }
     },
     {
+      "PK": "mx-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mx-cota.vivoglobal.com",
       "action": {
         "do": 0,

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:34 UTC
-# Version: 2026.0619.1834.49
+# Last modified: 26 Jun 2026 18:52 UTC
+# Version: 2026.0626.1852.33
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 389
+# Number of entries: 387
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -282,8 +282,6 @@
 *.confiant.msn.com
 *.flex.msn.com
 *.g00.msn.com
-*.h1.msn.com
-*.h2.msn.com
 *.h6.msn.com
 *.mobileads.msn.com
 *.mobileleads.msn.com

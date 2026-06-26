@@ -99,6 +99,13 @@
       }
     },
     {
+      "PK": "ad.miui.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad.quickapp.hybrid.xiaomi.com",
       "action": {
         "do": 0,

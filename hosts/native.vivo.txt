@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:41 UTC
-# Version: 2026.0619.1841.49
+# Last modified: 26 Jun 2026 18:59 UTC
+# Version: 2026.0626.1859.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 230
+# Number of entries: 231
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adlog.vivo.com.cn
@@ -153,6 +153,7 @@
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
+0.0.0.0 mx-album-api.vivoglobal.com
 0.0.0.0 mx-cota.vivoglobal.com
 0.0.0.0 mx-domaincfg.vivoglobal.com
 0.0.0.0 mx-err-up.vivoglobal.com

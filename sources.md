@@ -118,8 +118,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/custom/is.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
-https://raw.githubusercontent.com/cbuijs/suspicious-domains/refs/heads/main/suspicious.01d.domains.plain.list
-https://raw.githubusercontent.com/cbuijs/suspicious-domains/refs/heads/main/suspicious.07d.domains.plain.list
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -145,7 +143,6 @@ https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/ref
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/didikw/hashbd/refs/heads/main/jud0ll.txt
 https://raw.githubusercontent.com/DNSBunker/CTI/refs/heads/main/domains.txt
-https://raw.githubusercontent.com/dragnet-dev/haul/refs/heads/main/feeds/domains.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
