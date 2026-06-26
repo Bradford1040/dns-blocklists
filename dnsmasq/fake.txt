@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:09 UTC
-# Version: 2026.0625.1809.23
+# Last modified: 25 Jun 2026 21:51 UTC
+# Version: 2026.0625.2151.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16835
+# Number of entries: 16839
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -3648,6 +3648,7 @@ local=/cryptofundfx.com/
 local=/cryptomonaies.com/
 local=/cryptomoney888.com/
 local=/cryptoprofx.com/
+local=/cryptorxindex.info/
 local=/cryptos.solutions/
 local=/cryptoschutz24.de/
 local=/cryptosdeg.com/
@@ -15311,6 +15312,7 @@ local=/trexox.com/
 local=/trezorsuite.ltd/
 local=/trgartenservice.de/
 local=/trikoa.com/
+local=/trikotadler.com/
 local=/trikotarena.com/
 local=/trikotfachshop.com/
 local=/trikotfc.com/
@@ -16028,6 +16030,7 @@ local=/vorase.de/
 local=/vorela.de/
 local=/voreno.de/
 local=/vorisol.com/
+local=/vornethpro.at/
 local=/voroda.de/
 local=/voroly.de/
 local=/vorsorge-karte.com/
@@ -16078,6 +16081,7 @@ local=/wacoo.de/
 local=/wacooball.com/
 local=/waermepumpe-solar.de/
 local=/waermewald.de/
+local=/waermewelt.com/
 local=/waffeleisende.com/
 local=/waffen24de.com/
 local=/waffenlager.com/

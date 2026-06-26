@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 19:06 UTC
-! Version: 2026.0625.1906.27
+! Last modified: 25 Jun 2026 22:54 UTC
+! Version: 2026.0625.2254.15
 ! Syntax: AdBlock
-! Number of entries: 109538
+! Number of entries: 109537
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||images.1649348.com^
@@ -104987,7 +104987,6 @@
 ||vulkanvegas36.com^
 ||vulkanvegas9.com^
 ||vulkanvegas987.com^
-||vulkanvegascasino.site^
 ||vulkanvegascasino-gr.com^
 ||vulkanvegascasinoonline.com^
 ||vulkanwinclub.net^

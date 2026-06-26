@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:57 UTC
-# Version: 2026.0625.1857.21
+# Last modified: 26 Jun 2026 02:46 UTC
+# Version: 2026.0626.0246.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 92295
+# Number of entries: 92308
 #
 0.0-02.net
 2.004k.com
@@ -5224,7 +5224,6 @@ d26x5ounzdjojj.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
 d2763msf1wgvw2.cloudfront.net
 d27gtglsu4f4y2.cloudfront.net
-d292swwe9zki3u.cloudfront.net
 d2adpaynhf6x63.cloudfront.net
 d2bnxibecyz4h5.cloudfront.net
 d2bqow4fb67vs2.cloudfront.net
@@ -6003,6 +6002,7 @@ adv.yomiuri.co.jp
 adv.zdnet.co.kr
 analytics.zeraki.co.ke
 beacon.portal-observe.zoopla.co.uk
+150.co.il
 account-manager-lenkie.co.uk
 acera.co.uk
 ad-lister.co.uk
@@ -6252,6 +6252,7 @@ themorningtimes.co.uk
 theprimead.co.kr
 thetatteredledger.co.uk
 timelymagazine.co.uk
+top10.co.jp
 tpmn.co.kr
 traffic-media.co.uk
 treasurersledger.co.uk
@@ -7165,7 +7166,6 @@ encurtador.com.br
 enpocaspalabras.com.ar
 enviou.com.br
 eropteka.com.pl
-esmartway.com.my
 espn-sogou.com.cn
 esqe-wending.com.cn
 etcl-jindinghui.com.cn
@@ -7219,7 +7219,6 @@ fvzi-yunding.com.cn
 fzyg-wendingpg.com.cn
 game168.com.tw
 gecr-yunding.com.cn
-geek.com.do
 gizf-yunding.com.cn
 gkup-wendingpg.com.cn
 globeweb.com.br
@@ -7636,6 +7635,7 @@ peqe-wending.com.cn
 petonline.com.cn
 pg-qdwending.com.cn
 pgebok29791.com.pl
+pharmnet.com.cn
 pheenecs.com.ua
 pianospuch.com.ar
 pixad.com.tr
@@ -9848,6 +9848,7 @@ counter.educationalnetworks.net
 et.educationdynamics.com
 statictrack.educatrack.com
 track.educatrack.com
+sun.eduzz.com
 metrics.edwardjones.com
 www.edymek.net
 www.eecaac2016.org
@@ -11075,6 +11076,7 @@ go.fliplink.me
 p.flipp.com
 frontend-logger.flippback.com
 www.flipside.com
+app.flipsnack.com
 analytics.flir.com
 cvs.flir.com
 www.flirtwedwoje.com
@@ -12012,7 +12014,6 @@ school.obec.go.th
 s.pu.go.id
 portal-analytics.tmd.go.th
 isiolo.go.ke
-ppkhosp.go.th
 sw88.go.com
 telemetry.go.dev
 transfer.go.com
@@ -16976,7 +16977,6 @@ btvm.ne.jp
 d2c.ne.jp
 doubleclick.ne.jp
 ebis.ne.jp
-hey.ne.jp
 i-younet.ne.jp
 k-macs.ne.jp
 katch.ne.jp
@@ -17021,6 +17021,7 @@ frontier.net.pk
 gsi.net.vn
 loopa.net.au
 obkom.net.ua
+pages.net.br
 pie.net.pk
 proton.net.cn
 six.net.pk
@@ -19616,6 +19617,7 @@ xmt.paze.com
 rss.pazudora-friend.com
 investors.pbfenergy.com
 analytics-ingestion.pbpms.de
+gcdnb.pbrd.co
 smetrics.pbteen.com
 p.pcdelv.com
 sp.pcid.ca
@@ -28625,6 +28627,7 @@ upc.zztfly.com
 121basic.com
 121macro.com
 121synapse.net
+12200h0592.xyz
 12206.cfd
 12213.cfd
 12222.cfd
@@ -32053,6 +32056,7 @@ upc.zztfly.com
 48783.cfd
 4878a23d9d75c29f.com
 487b4efa4a6fafad.com
+487syss1.shop
 48815.cfd
 488ee051f95f.online
 48909.cfd
@@ -32900,6 +32904,7 @@ upc.zztfly.com
 5820942-trezor.io
 58223.cfd
 58238.cfd
+58239j6.xyz
 58240.cfd
 58248.cfd
 58254.cfd
@@ -36009,6 +36014,7 @@ upc.zztfly.com
 94934.cfd
 9494675c2bc6.top
 9494911aa421.shop
+949875h.xyz
 94b60b9f6936.top
 94c064e261308c5a.com
 94d102289159.xyz
@@ -38952,7 +38958,6 @@ aflhyxnzlyhvv.online
 aflink.com
 aflink.ru
 afm01.com
-afmndx.com
 afnbycy.com
 afodreet.net
 afora.ru
@@ -43278,7 +43283,6 @@ bjmantis.net
 bjmining.com
 bjmyjrpjqqeep.com
 bjnstrujhqmna.space
-bjrapps.xyz
 bjscjsd.com
 bjsr03odzu.com
 bjsvp38.space
@@ -43783,6 +43787,7 @@ bookmsg.com
 bookroombasicledger.com
 booksbyschaaf.com
 booksledgers.com
+boolylipases.com
 boomads.com
 boomarketer.com
 boomertraff.com
@@ -45747,7 +45752,6 @@ cdluck.com
 cdn.gallery
 cdn.house
 cdn-adtech.com
-cdn-cloudservice.com
 cdn-dropbox.com
 cdn-fc.com
 cdn-fileserver.com
@@ -51337,6 +51341,7 @@ domob.org
 domodomain.com
 domokitw.lol
 domoklik.shop
+domovo.shop
 domowaprzestrzen.shop
 domoweagd.shop
 domoweelektro.shop
@@ -55864,7 +55869,6 @@ followmurmuringsquealing.com
 folusho.com
 fomdepiq.gifts
 fomo.com
-fomzelvar.xyz
 fondazioneciampi.org
 fondusdvornik.cfd
 fongumporg.net
@@ -56419,6 +56423,7 @@ fuhdnnce.xyz
 fuhidd.com
 fukaka.ru
 fukugan.com
+fukugyo-start.com
 fulanijahvismchiule.qpon
 fulfibivicederedere.xyz
 fullcircleinsights.com
@@ -56840,6 +56845,7 @@ garagegames.com
 garagetactics.com
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
+garanti-krediye-basvur.sbs
 garantibbvaintl.com
 garbagepictish.cyou
 garboilfarle.com
@@ -57168,6 +57174,7 @@ get-trust-vpn.info
 get2.fun
 get4click.ru
 get4games.com
+get9547823.lol
 getaawp.com
 getadi.com
 getadmiral.com
@@ -57365,6 +57372,7 @@ ggbetss.com
 ggbrtfakgx.com
 ggcorp.me
 ggff.net
+gggatat456.com
 gggetpdcud.xyz
 gggpht.com
 gggpppht.com
@@ -59977,9 +59985,9 @@ hpcostco.shop
 hpdipavuplwoe.website
 hpejlsb.com
 hphp-dy.net
+hpooti54823.shop
 hportfoy.com
 hpotw7j4vh622k94u3g1kh4.cfd
-hpozhxwptmzdc.site
 hpplay.cn
 hpqiktoilcksn.site
 hprofits.com
@@ -61101,7 +61109,6 @@ ingrowberylsrosales.qpon
 ingszlmcsuwyu.site
 inhaulblanch.qpon
 inherentdecide.com
-inherentlycivilcougar.shop
 inheritedunstable.com
 inhousead.net
 inhousedsp.com
@@ -61359,7 +61366,6 @@ institutionalledger.com
 institutobrasilcursos.com
 instostima.cyou
 instrapper.com
-instrck.com
 instreamatic.com
 instreamvideo.ru
 instruction-upslux-2026.com
@@ -62778,6 +62784,7 @@ juakvinjpo34.xyz
 juancarloscubeiro.com
 juanledger.online
 juar620.net
+juaristiasociados.com
 jubbie.de
 jubi.ai
 jubilantaura.com
@@ -68836,6 +68843,7 @@ mugilreshoes.cfd
 muglatch.net
 muhamadfafaoyunda.net
 muhkpyk.in
+muhu-bb-vv-aa-ss-dd.xyz
 muigejwkogwuxb.com
 mukade.jp
 mukemmelbirbaslangicicinharikagunlerde.xyz
@@ -71540,7 +71548,6 @@ onlinetoolsforbrowser.com
 onlinetopchoice.com
 onlinevisa.com
 onlinevrach-24.online
-onlline-sbm.org
 onlne-182.xyz
 onlsated.shop
 only-fans.uk
@@ -72259,6 +72266,7 @@ p2yn.com
 p30rank.ir
 p3617cq69htqix538by5f.cfd
 p49o7e.ru
+p4zn7rv.hair
 p65gcash.com
 p65gcashcasino.com
 p666gcash.com
@@ -75260,6 +75268,7 @@ prylersteeds.qpon
 pryor.group
 prywant8492119.xyz
 prywante8342932.xyz
+prywante842012887j.shop
 prywatnaoferta4.shop
 prywatne-ogloszenia2993939393.shop
 prywatne-ogloszenie830102.shop
@@ -76309,7 +76318,6 @@ quokkacheeks.com
 quokkasgraf.com
 quonsettarish.qpon
 quonsvix.shop
-quorfixed.xyz
 quorsukey.cyou
 quorvinta365x.com
 quotaledger.com
@@ -79335,6 +79343,7 @@ separatelysmackfibber.com
 sepet-odemesi-1985.com
 sepet-odemesi-1988.com
 sepetimdeindirimleriyakala.com
+sepetimonay.online
 sepetliplatformdenizli.com
 sepetlivincdenizli.com
 sepgoal.com
@@ -80471,6 +80480,8 @@ smart-tv-data.com
 smart1adserver.com
 smart2cnjuh34jb.com
 smart4ads.com
+smart8437912.shop
+smart847312950458.xyz
 smart93818192.xyz
 smart94392912.baby
 smartaccess.biz
@@ -82378,7 +82389,6 @@ support-instagrambreaking.com
 support-ledger.net
 support-ledgerupdate.com
 support-relay-livraison.com
-support-tweedbet.com
 support-vrbank.com
 support-wallet-ledger.com
 support509.com
@@ -82735,6 +82745,7 @@ t2mobi.digital
 t4p-upd.info
 t4trade.com
 t4uosx.sbs
+t5wr3kp.hair
 t64742-coinbase.com
 t6k9r3p1z8w2.cfd
 t74909303.click
@@ -83286,7 +83297,6 @@ tekzmxqlra.shop
 tel1mekar.com
 telamoncleaner.com
 telaria.com
-telcelup.mx
 tele.gg
 telecarsten-shop.de
 telecid.ru
@@ -85569,6 +85579,7 @@ trigs-sockets.com
 trigub.ru
 trijetsnilrosters.qpon
 trikeunpured.com
+trikotadler.com
 trilema.com
 trillant.com
 trillisept.cyou
@@ -86837,6 +86848,7 @@ unjeabiacu.cyou
 unjiqfer.com
 unjustsubmerge.com
 unkemptbirth.com
+unknown47.top
 unknownidea.com
 unlaprasa.com
 unlawful-judgment.com
@@ -88083,6 +88095,7 @@ vip-jisldk-feo-dun.com
 vip-ledger.com
 vipads.cc
 vipads.live
+vipapi.me
 vipapi.org
 vipdeit.com
 vipdine.space
@@ -90541,6 +90554,7 @@ xirugcrbfagsb.space
 xishoujianguanggao.com
 xiti.com
 xizubjdgoczcq.website
+xj6n818rl2129fc18z4gw1jefq.cfd
 xj8z6umrlxw23k6k5ygtnp9.cfd
 xjicecx.ru
 xjiligcash.com
@@ -90817,7 +90831,6 @@ xxsmad5.com
 xxsmad6.com
 xxtrdenemelerixismenuleriguncel.xyz
 xxuz.com
-xxxatat456.com
 xxxblackbook.com
 xxxbullet.com
 xxxconent.biz

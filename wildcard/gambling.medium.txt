@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 19:05 UTC
-# Version: 2026.0625.1905.11
+# Last modified: 25 Jun 2026 22:52 UTC
+# Version: 2026.0625.2252.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 136165
+# Number of entries: 136164
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.togelgame.150m.com
@@ -130600,7 +130600,6 @@
 *.vulkanvegas36.com
 *.vulkanvegas9.com
 *.vulkanvegas987.com
-*.vulkanvegascasino.site
 *.vulkanvegascasino-gr.com
 *.vulkanvegascasino-nl.com
 *.vulkanvegascasino1.com

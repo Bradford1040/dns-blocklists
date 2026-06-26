@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 19:05 UTC
-# Version: 2026.0625.1905.11
+# Last modified: 25 Jun 2026 22:52 UTC
+# Version: 2026.0625.2252.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 136165
+# Number of entries: 136164
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/togelgame.150m.com/
@@ -130600,7 +130600,6 @@ local=/vulkanvegas35.com/
 local=/vulkanvegas36.com/
 local=/vulkanvegas9.com/
 local=/vulkanvegas987.com/
-local=/vulkanvegascasino.site/
 local=/vulkanvegascasino-gr.com/
 local=/vulkanvegascasino-nl.com/
 local=/vulkanvegascasino1.com/

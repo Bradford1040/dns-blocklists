@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 18:53 UTC
-! Version: 2026.0625.1853.42
+! Last modified: 26 Jun 2026 02:46 UTC
+! Version: 2026.0626.0246.09
 ! Syntax: AdBlock
-! Number of entries: 80594
+! Number of entries: 80606
 !
 ||0.0-02.net^
 ||2.004k.com^
@@ -4402,7 +4402,6 @@
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d26xw8rp6mlgfg.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
-||d292swwe9zki3u.cloudfront.net^
 ||d2cli4kgl5uxre.cloudfront.net^
 ||d2cmqkwo8rxlr9.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
@@ -5055,6 +5054,7 @@
 ||adv.zdnet.co.kr^
 ||analytics.zeraki.co.ke^
 ||beacon.portal-observe.zoopla.co.uk^
+||150.co.il^
 ||account-manager-lenkie.co.uk^
 ||acera.co.uk^
 ||ad-lister.co.uk^
@@ -5215,6 +5215,7 @@
 ||theledgercompany.co.uk^
 ||theprimead.co.kr^
 ||thetatteredledger.co.uk^
+||top10.co.jp^
 ||tpmn.co.kr^
 ||traffic-media.co.uk^
 ||treasurersledger.co.uk^
@@ -5989,7 +5990,6 @@
 ||encurtador.com.br^
 ||enviou.com.br^
 ||eropteka.com.pl^
-||esmartway.com.my^
 ||espn-sogou.com.cn^
 ||esqe-wending.com.cn^
 ||etcl-jindinghui.com.cn^
@@ -6040,7 +6040,6 @@
 ||fvzi-yunding.com.cn^
 ||fzyg-wendingpg.com.cn^
 ||gecr-yunding.com.cn^
-||geek.com.do^
 ||gizf-yunding.com.cn^
 ||gkup-wendingpg.com.cn^
 ||globeweb.com.br^
@@ -6427,6 +6426,7 @@
 ||petonline.com.cn^
 ||pg-qdwending.com.cn^
 ||pgebok29791.com.pl^
+||pharmnet.com.cn^
 ||pheenecs.com.ua^
 ||pixad.com.tr^
 ||pjme-wending.com.cn^
@@ -8291,6 +8291,7 @@
 ||utpaqp.edu.pe^
 ||et.educationdynamics.com^
 ||statictrack.educatrack.com^
+||sun.eduzz.com^
 ||metrics.edwardjones.com^
 ||www.edymek.net^
 ||www.eecaac2016.org^
@@ -9336,6 +9337,7 @@
 ||pla-tk.flipkart.net^
 ||go.fliplink.me^
 ||frontend-logger.flippback.com^
+||app.flipsnack.com^
 ||analytics.flir.com^
 ||cvs.flir.com^
 ||bl.flirthits.com^
@@ -10124,7 +10126,6 @@
 ||school.obec.go.th^
 ||s.pu.go.id^
 ||portal-analytics.tmd.go.th^
-||ppkhosp.go.th^
 ||telemetry.go.dev^
 ||tredir.go.com^
 ||unid.go.com^
@@ -14183,7 +14184,6 @@
 ||btvm.ne.jp^
 ||d2c.ne.jp^
 ||doubleclick.ne.jp^
-||hey.ne.jp^
 ||i-younet.ne.jp^
 ||k-macs.ne.jp^
 ||katch.ne.jp^
@@ -14221,6 +14221,7 @@
 ||gsi.net.vn^
 ||loopa.net.au^
 ||obkom.net.ua^
+||pages.net.br^
 ||proton.net.cn^
 ||six.net.pk^
 ||vads.net.vn^
@@ -16592,6 +16593,7 @@
 ||cdn.pbfillyintelmedia.com^
 ||s.pbfillyintelmedia.com^
 ||analytics-ingestion.pbpms.de^
+||gcdnb.pbrd.co^
 ||smetrics.pbteen.com^
 ||sp.pcid.ca^
 ||g.pcmag.com^
@@ -24103,6 +24105,7 @@
 ||121basic.com^
 ||121macro.com^
 ||121synapse.net^
+||12200h0592.xyz^
 ||12206.cfd^
 ||12213.cfd^
 ||12222.cfd^
@@ -27470,6 +27473,7 @@
 ||48783.cfd^
 ||4878a23d9d75c29f.com^
 ||487b4efa4a6fafad.com^
+||487syss1.shop^
 ||48815.cfd^
 ||488ee051f95f.online^
 ||48909.cfd^
@@ -28302,6 +28306,7 @@
 ||5820942-trezor.io^
 ||58223.cfd^
 ||58238.cfd^
+||58239j6.xyz^
 ||58240.cfd^
 ||58248.cfd^
 ||58254.cfd^
@@ -31372,6 +31377,7 @@
 ||94934.cfd^
 ||9494675c2bc6.top^
 ||9494911aa421.shop^
+||949875h.xyz^
 ||94b60b9f6936.top^
 ||94c064e261308c5a.com^
 ||94d102289159.xyz^
@@ -33973,7 +33979,6 @@
 ||afkwa.com^
 ||aflhyxnzlyhvv.online^
 ||afm01.com^
-||afmndx.com^
 ||afodreet.net^
 ||afora.ru^
 ||afp.ai^
@@ -37735,7 +37740,6 @@
 ||bjmining.com^
 ||bjmyjrpjqqeep.com^
 ||bjnstrujhqmna.space^
-||bjrapps.xyz^
 ||bjscjsd.com^
 ||bjsr03odzu.com^
 ||bjsvp38.space^
@@ -38184,6 +38188,7 @@
 ||bookmsg.com^
 ||bookroombasicledger.com^
 ||booksledgers.com^
+||boolylipases.com^
 ||boomads.com^
 ||boomarketer.com^
 ||boomertraff.com^
@@ -39949,7 +39954,6 @@
 ||cdn.gallery^
 ||cdn.house^
 ||cdn-adtech.com^
-||cdn-cloudservice.com^
 ||cdn-dropbox.com^
 ||cdn-fc.com^
 ||cdn-fileserver.com^
@@ -44881,6 +44885,7 @@
 ||domodomain.com^
 ||domokitw.lol^
 ||domoklik.shop^
+||domovo.shop^
 ||domowaprzestrzen.shop^
 ||domoweagd.shop^
 ||domoweelektro.shop^
@@ -48903,7 +48908,6 @@
 ||followmurmuringsquealing.com^
 ||folusho.com^
 ||fomdepiq.gifts^
-||fomzelvar.xyz^
 ||fondazioneciampi.org^
 ||fondusdvornik.cfd^
 ||fongumporg.net^
@@ -49375,6 +49379,7 @@
 ||fuhidd.com^
 ||fukaka.ru^
 ||fukugan.com^
+||fukugyo-start.com^
 ||fulanijahvismchiule.qpon^
 ||fulfibivicederedere.xyz^
 ||fullcircleinsights.com^
@@ -49734,6 +49739,7 @@
 ||garagetactics.com^
 ||garanti-kredi-basvuru.sbs^
 ||garanti-kredi-basvurusu.sbs^
+||garanti-krediye-basvur.sbs^
 ||garantibbvaintl.com^
 ||garbagepictish.cyou^
 ||garboilfarle.com^
@@ -50020,6 +50026,7 @@
 ||get2.fun^
 ||get4click.ru^
 ||get4games.com^
+||get9547823.lol^
 ||getaawp.com^
 ||getadmiral.com^
 ||getads.ru^
@@ -50172,6 +50179,7 @@
 ||ggbets.pl^
 ||ggbetss.com^
 ||ggbrtfakgx.com^
+||gggatat456.com^
 ||gggetpdcud.xyz^
 ||gggpht.com^
 ||gggpppht.com^
@@ -52443,9 +52451,9 @@
 ||hpdipavuplwoe.website^
 ||hpejlsb.com^
 ||hphp-dy.net^
+||hpooti54823.shop^
 ||hportfoy.com^
 ||hpotw7j4vh622k94u3g1kh4.cfd^
-||hpozhxwptmzdc.site^
 ||hpplay.cn^
 ||hpqiktoilcksn.site^
 ||hprofits.com^
@@ -53397,7 +53405,6 @@
 ||ingszlmcsuwyu.site^
 ||inhaulblanch.qpon^
 ||inherentdecide.com^
-||inherentlycivilcougar.shop^
 ||inheritedunstable.com^
 ||inhousead.net^
 ||inhousedsp.com^
@@ -53623,7 +53630,6 @@
 ||institutobrasilcursos.com^
 ||instostima.cyou^
 ||instrapper.com^
-||instrck.com^
 ||instreamatic.com^
 ||instreamvideo.ru^
 ||instruction-upslux-2026.com^
@@ -54859,6 +54865,7 @@
 ||juancarloscubeiro.com^
 ||juanledger.online^
 ||juar620.net^
+||juaristiasociados.com^
 ||jubbie.de^
 ||jubi.ai^
 ||jubilantaura.com^
@@ -60169,6 +60176,7 @@
 ||muglatch.net^
 ||muhamadfafaoyunda.net^
 ||muhkpyk.in^
+||muhu-bb-vv-aa-ss-dd.xyz^
 ||muigejwkogwuxb.com^
 ||mukade.jp^
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
@@ -62457,7 +62465,6 @@
 ||onlinetopchoice.com^
 ||onlinevisa.com^
 ||onlinevrach-24.online^
-||onlline-sbm.org^
 ||onlne-182.xyz^
 ||onlsated.shop^
 ||only-fans.uk^
@@ -63090,6 +63097,7 @@
 ||p30rank.ir^
 ||p3617cq69htqix538by5f.cfd^
 ||p49o7e.ru^
+||p4zn7rv.hair^
 ||p65gcash.com^
 ||p65gcashcasino.com^
 ||p666gcash.com^
@@ -65758,6 +65766,7 @@
 ||prylersteeds.qpon^
 ||prywant8492119.xyz^
 ||prywante8342932.xyz^
+||prywante842012887j.shop^
 ||prywatnaoferta4.shop^
 ||prywatne-ogloszenia2993939393.shop^
 ||prywatne-ogloszenie830102.shop^
@@ -66686,7 +66695,6 @@
 ||quokkasgraf.com^
 ||quonsettarish.qpon^
 ||quonsvix.shop^
-||quorfixed.xyz^
 ||quorsukey.cyou^
 ||quorvinta365x.com^
 ||quotaledger.com^
@@ -69283,6 +69291,7 @@
 ||sepet-odemesi-1985.com^
 ||sepet-odemesi-1988.com^
 ||sepetimdeindirimleriyakala.com^
+||sepetimonay.online^
 ||sepetliplatformdenizli.com^
 ||sepetlivincdenizli.com^
 ||sepgoal.com^
@@ -69887,7 +69896,6 @@
 ||singlefeed.com^
 ||singleflirt.com^
 ||singlesadnetwork.com^
-||singlsw.com^
 ||singosceve.cyou^
 ||singroot.com^
 ||singtelmyconnect.com^
@@ -70231,6 +70239,8 @@
 ||smart1adserver.com^
 ||smart2cnjuh34jb.com^
 ||smart4ads.com^
+||smart8437912.shop^
+||smart847312950458.xyz^
 ||smart93818192.xyz^
 ||smart94392912.baby^
 ||smartaccess.biz^
@@ -71851,7 +71861,6 @@
 ||support-ledger.net^
 ||support-ledgerupdate.com^
 ||support-relay-livraison.com^
-||support-tweedbet.com^
 ||support-vrbank.com^
 ||support-wallet-ledger.com^
 ||supportedpantry.com^
@@ -72159,6 +72168,7 @@
 ||t2mobi.digital^
 ||t4trade.com^
 ||t4uosx.sbs^
+||t5wr3kp.hair^
 ||t64742-coinbase.com^
 ||t6k9r3p1z8w2.cfd^
 ||t74909303.click^
@@ -72613,7 +72623,6 @@
 ||tekzmxqlra.shop^
 ||tel1mekar.com^
 ||telaria.com^
-||telcelup.mx^
 ||tele.gg^
 ||telecarsten-shop.de^
 ||telecid.ru^
@@ -74654,6 +74663,7 @@
 ||trigub.ru^
 ||trijetsnilrosters.qpon^
 ||trikeunpured.com^
+||trikotadler.com^
 ||trilema.com^
 ||trillant.com^
 ||trillisept.cyou^
@@ -75773,6 +75783,7 @@
 ||unjiqfer.com^
 ||unjustsubmerge.com^
 ||unkemptbirth.com^
+||unknown47.top^
 ||unknownidea.com^
 ||unlaprasa.com^
 ||unlawful-judgment.com^
@@ -76873,6 +76884,7 @@
 ||vip-ledger.com^
 ||vipads.cc^
 ||vipads.live^
+||vipapi.me^
 ||vipapi.org^
 ||vipdeit.com^
 ||vipdine.space^
@@ -79016,6 +79028,7 @@
 ||xishoujianguanggao.com^
 ||xiti.com^
 ||xizubjdgoczcq.website^
+||xj6n818rl2129fc18z4gw1jefq.cfd^
 ||xj8z6umrlxw23k6k5ygtnp9.cfd^
 ||xjicecx.ru^
 ||xjiligcash.com^
@@ -79266,7 +79279,6 @@
 ||xxsmad6.com^
 ||xxtrdenemelerixismenuleriguncel.xyz^
 ||xxuz.com^
-||xxxatat456.com^
 ||xxxblackbook.com^
 ||xxxbullet.com^
 ||xxxcounter.com^

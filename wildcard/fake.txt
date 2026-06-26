@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:09 UTC
-# Version: 2026.0625.1809.23
+# Last modified: 25 Jun 2026 21:51 UTC
+# Version: 2026.0625.2151.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16835
+# Number of entries: 16839
 #
 *.trader.212group.de
 *.eu.2bagsvalley.cn
@@ -3648,6 +3648,7 @@
 *.cryptomonaies.com
 *.cryptomoney888.com
 *.cryptoprofx.com
+*.cryptorxindex.info
 *.cryptos.solutions
 *.cryptoschutz24.de
 *.cryptosdeg.com
@@ -15311,6 +15312,7 @@
 *.trezorsuite.ltd
 *.trgartenservice.de
 *.trikoa.com
+*.trikotadler.com
 *.trikotarena.com
 *.trikotfachshop.com
 *.trikotfc.com
@@ -16028,6 +16030,7 @@
 *.vorela.de
 *.voreno.de
 *.vorisol.com
+*.vornethpro.at
 *.voroda.de
 *.voroly.de
 *.vorsorge-karte.com
@@ -16078,6 +16081,7 @@
 *.wacooball.com
 *.waermepumpe-solar.de
 *.waermewald.de
+*.waermewelt.com
 *.waffeleisende.com
 *.waffen24de.com
 *.waffenlager.com

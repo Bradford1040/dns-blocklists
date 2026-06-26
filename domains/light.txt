@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:50 UTC
-# Version: 2026.0625.1850.07
+# Last modified: 26 Jun 2026 02:45 UTC
+# Version: 2026.0626.0245.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 91818
+# Number of entries: 91828
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -312,6 +312,7 @@ umami-w4w44gcsokw84wg4w8ow0sgg.05052000.xyz
 0597kk.com
 0597qc.com
 05block.com
+0628ba07b4.com
 06annonce.com
 06e6611fca.com
 www.070829.com
@@ -610,6 +611,7 @@ yaolu.yuedu.163.com
 ac.dun.163yun.com
 ir-sdk.dun.163yun.com
 ye.dun.163yun.com
+16425bafe4.com
 165tchuang.com
 166-google.com
 facebook.166-google.com
@@ -5338,6 +5340,7 @@ www.44m4.net
 450fromdrift.com
 t.451.io
 www.456thbombgroup.org
+45b58980d0.com
 45tu1c0.com
 amp-asset.45tu1c0.com
 460bet.click
@@ -10129,7 +10132,6 @@ afkwa.com
 cpm.afkwa.com
 aflhyxnzlyhvv.online
 afm01.com
-afmndx.com
 afodreet.net
 afp.ai
 cdn.afp.ai
@@ -23653,6 +23655,7 @@ bookmsg.com
 static.bookmsg.com
 adtech-events.bookmyshow.com
 piwik.booktech.de
+boolylipases.com
 boomads.com
 widget.boomads.com
 boomarketer.com
@@ -30758,7 +30761,6 @@ d24w6bsrhbeh9d.cloudfront.net
 d25dfknw9ghxs6.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
 d27gtglsu4f4y2.cloudfront.net
-d292swwe9zki3u.cloudfront.net
 d2cli4kgl5uxre.cloudfront.net
 d2cmqkwo8rxlr9.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
@@ -35561,6 +35563,7 @@ dcufwmmoasenl.website
 www.dcurtis.com
 dd133.com
 dd1xbevqx.com
+dd795a9d50.com
 dd81bp3qbj.com
 ddfcash.com
 ddfrrwsdgwfvp.online
@@ -45527,6 +45530,7 @@ slf.fugu-it.com
 fuhdnnce.xyz
 www.fujairahfreezone.com
 fukaka.ru
+fukugyo-start.com
 fulanijahvismchiule.qpon
 fullcirclestudies.com
 www.fullcirclestudies.com
@@ -49785,7 +49789,6 @@ smetrics.hpe.com
 hpejlsb.com
 hphp-dy.net
 hpotw7j4vh622k94u3g1kh4.cfd
-hpozhxwptmzdc.site
 hpplay.cn
 conf.hpplay.cn
 gslb.hpplay.cn
@@ -52228,7 +52231,6 @@ trending-now.instiengage.com
 instinctiveads.com
 institto.casa
 ad.inston.ltd
-instrck.com
 instreamatic.com
 x.instreamatic.com
 instreamvideo.ru
@@ -65914,6 +65916,7 @@ opienetwork.com
 tracking.opienetwork.com
 opinedslabs.cfd
 opinesclivers.cfd
+opinesgallate.com
 oplcgtbsr.com
 www.oplytic.com
 opmnstr.com
@@ -70830,6 +70833,8 @@ analytics.qumucloud.com
 qreport.qunar.com
 jordan.qunis.ru
 quoddedelfdom.cfd
+quohogssopping.com
+py.quohogssopping.com
 quohogssterinbeeish.cfd
 quoinvoiles.qpon
 quokkacheeks.com
@@ -72683,6 +72688,8 @@ sync.richaudience.com
 eu.sync.richaudience.com
 us.lax.sync.richaudience.com
 us-east-sync.richaudience.com
+richeryawp.com
+od.richeryawp.com
 richinfo.co
 richlifeads.ru
 richmediastudio.com
@@ -75700,7 +75707,6 @@ www.singlefeed.com
 singleflirt.com
 www.singleflirt.com
 telemetry.icmobile.singlewire.com
-singlsw.com
 singroot.com
 sw.singsw.com
 singtelmyconnect.com
@@ -83831,6 +83837,7 @@ re.trigs-sockets.com
 trigub.ru
 trijetsnilrosters.qpon
 trikeunpured.com
+trikotadler.com
 trilema.com
 trillant.com
 trillisept.cyou
@@ -85649,6 +85656,7 @@ unjdrbyles.com
 unjiqfer.com
 unjustsubmerge.com
 unkemptbirth.com
+unknown47.top
 unknownidea.com
 analytics.unknownworlds.com
 unlaprasa.com
@@ -87061,6 +87069,7 @@ p.viowrel.com
 vip-jisldk-feo-dun.com
 vipads.cc
 vipads.live
+vipapi.me
 vipapi.org
 vipdine.space
 viperydanite.cfd
@@ -89813,6 +89822,7 @@ logs4.xiti.com
 www.xiti.com
 www.xius.com
 xizubjdgoczcq.website
+xj6n818rl2129fc18z4gw1jefq.cfd
 xj8z6umrlxw23k6k5ygtnp9.cfd
 xjicecx.ru
 xjl2ts2q6a.com

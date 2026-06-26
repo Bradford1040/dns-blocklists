@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:50 UTC
-# Version: 2026.0625.1850.07
+# Last modified: 26 Jun 2026 02:45 UTC
+# Version: 2026.0626.0245.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 91818
+# Number of entries: 91828
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -312,6 +312,7 @@
 0.0.0.0 0597kk.com
 0.0.0.0 0597qc.com
 0.0.0.0 05block.com
+0.0.0.0 0628ba07b4.com
 0.0.0.0 06annonce.com
 0.0.0.0 06e6611fca.com
 0.0.0.0 www.070829.com
@@ -610,6 +611,7 @@
 0.0.0.0 ac.dun.163yun.com
 0.0.0.0 ir-sdk.dun.163yun.com
 0.0.0.0 ye.dun.163yun.com
+0.0.0.0 16425bafe4.com
 0.0.0.0 165tchuang.com
 0.0.0.0 166-google.com
 0.0.0.0 facebook.166-google.com
@@ -5338,6 +5340,7 @@
 0.0.0.0 450fromdrift.com
 0.0.0.0 t.451.io
 0.0.0.0 www.456thbombgroup.org
+0.0.0.0 45b58980d0.com
 0.0.0.0 45tu1c0.com
 0.0.0.0 amp-asset.45tu1c0.com
 0.0.0.0 460bet.click
@@ -10129,7 +10132,6 @@
 0.0.0.0 cpm.afkwa.com
 0.0.0.0 aflhyxnzlyhvv.online
 0.0.0.0 afm01.com
-0.0.0.0 afmndx.com
 0.0.0.0 afodreet.net
 0.0.0.0 afp.ai
 0.0.0.0 cdn.afp.ai
@@ -23653,6 +23655,7 @@
 0.0.0.0 static.bookmsg.com
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 piwik.booktech.de
+0.0.0.0 boolylipases.com
 0.0.0.0 boomads.com
 0.0.0.0 widget.boomads.com
 0.0.0.0 boomarketer.com
@@ -30758,7 +30761,6 @@
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
 0.0.0.0 d26xw8rp6mlgfg.cloudfront.net
 0.0.0.0 d27gtglsu4f4y2.cloudfront.net
-0.0.0.0 d292swwe9zki3u.cloudfront.net
 0.0.0.0 d2cli4kgl5uxre.cloudfront.net
 0.0.0.0 d2cmqkwo8rxlr9.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
@@ -35561,6 +35563,7 @@
 0.0.0.0 www.dcurtis.com
 0.0.0.0 dd133.com
 0.0.0.0 dd1xbevqx.com
+0.0.0.0 dd795a9d50.com
 0.0.0.0 dd81bp3qbj.com
 0.0.0.0 ddfcash.com
 0.0.0.0 ddfrrwsdgwfvp.online
@@ -45527,6 +45530,7 @@
 0.0.0.0 fuhdnnce.xyz
 0.0.0.0 www.fujairahfreezone.com
 0.0.0.0 fukaka.ru
+0.0.0.0 fukugyo-start.com
 0.0.0.0 fulanijahvismchiule.qpon
 0.0.0.0 fullcirclestudies.com
 0.0.0.0 www.fullcirclestudies.com
@@ -49785,7 +49789,6 @@
 0.0.0.0 hpejlsb.com
 0.0.0.0 hphp-dy.net
 0.0.0.0 hpotw7j4vh622k94u3g1kh4.cfd
-0.0.0.0 hpozhxwptmzdc.site
 0.0.0.0 hpplay.cn
 0.0.0.0 conf.hpplay.cn
 0.0.0.0 gslb.hpplay.cn
@@ -52228,7 +52231,6 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 institto.casa
 0.0.0.0 ad.inston.ltd
-0.0.0.0 instrck.com
 0.0.0.0 instreamatic.com
 0.0.0.0 x.instreamatic.com
 0.0.0.0 instreamvideo.ru
@@ -65914,6 +65916,7 @@
 0.0.0.0 tracking.opienetwork.com
 0.0.0.0 opinedslabs.cfd
 0.0.0.0 opinesclivers.cfd
+0.0.0.0 opinesgallate.com
 0.0.0.0 oplcgtbsr.com
 0.0.0.0 www.oplytic.com
 0.0.0.0 opmnstr.com
@@ -70830,6 +70833,8 @@
 0.0.0.0 qreport.qunar.com
 0.0.0.0 jordan.qunis.ru
 0.0.0.0 quoddedelfdom.cfd
+0.0.0.0 quohogssopping.com
+0.0.0.0 py.quohogssopping.com
 0.0.0.0 quohogssterinbeeish.cfd
 0.0.0.0 quoinvoiles.qpon
 0.0.0.0 quokkacheeks.com
@@ -72683,6 +72688,8 @@
 0.0.0.0 eu.sync.richaudience.com
 0.0.0.0 us.lax.sync.richaudience.com
 0.0.0.0 us-east-sync.richaudience.com
+0.0.0.0 richeryawp.com
+0.0.0.0 od.richeryawp.com
 0.0.0.0 richinfo.co
 0.0.0.0 richlifeads.ru
 0.0.0.0 richmediastudio.com
@@ -75700,7 +75707,6 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 www.singleflirt.com
 0.0.0.0 telemetry.icmobile.singlewire.com
-0.0.0.0 singlsw.com
 0.0.0.0 singroot.com
 0.0.0.0 sw.singsw.com
 0.0.0.0 singtelmyconnect.com
@@ -83831,6 +83837,7 @@
 0.0.0.0 trigub.ru
 0.0.0.0 trijetsnilrosters.qpon
 0.0.0.0 trikeunpured.com
+0.0.0.0 trikotadler.com
 0.0.0.0 trilema.com
 0.0.0.0 trillant.com
 0.0.0.0 trillisept.cyou
@@ -85649,6 +85656,7 @@
 0.0.0.0 unjiqfer.com
 0.0.0.0 unjustsubmerge.com
 0.0.0.0 unkemptbirth.com
+0.0.0.0 unknown47.top
 0.0.0.0 unknownidea.com
 0.0.0.0 analytics.unknownworlds.com
 0.0.0.0 unlaprasa.com
@@ -87061,6 +87069,7 @@
 0.0.0.0 vip-jisldk-feo-dun.com
 0.0.0.0 vipads.cc
 0.0.0.0 vipads.live
+0.0.0.0 vipapi.me
 0.0.0.0 vipapi.org
 0.0.0.0 vipdine.space
 0.0.0.0 viperydanite.cfd
@@ -89813,6 +89822,7 @@
 0.0.0.0 www.xiti.com
 0.0.0.0 www.xius.com
 0.0.0.0 xizubjdgoczcq.website
+0.0.0.0 xj6n818rl2129fc18z4gw1jefq.cfd
 0.0.0.0 xj8z6umrlxw23k6k5ygtnp9.cfd
 0.0.0.0 xjicecx.ru
 0.0.0.0 xjl2ts2q6a.com

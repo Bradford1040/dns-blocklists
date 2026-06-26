@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:07 UTC
-# Version: 2026.0625.1807.06
+# Last modified: 26 Jun 2026 01:50 UTC
+# Version: 2026.0626.0150.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57239
+# Number of entries: 57240
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -16336,6 +16336,7 @@ local=/carpenterexplorerdemolition.com/
 local=/carpenterfootwearappellation.com/
 local=/carpenterthrilling.com/
 local=/carperspiration.com/
+local=/carpsmelly.com/
 local=/carpuslarrups.com/
 local=/carriedamiral.com/
 local=/carrotsaystopping.com/
