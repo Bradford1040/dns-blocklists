@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 06:53 UTC
-# Version: 2026.0627.0653.46
+# Last modified: 27 Jun 2026 18:06 UTC
+# Version: 2026.0627.1806.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57255
+# Number of entries: 57251
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -450,9 +450,6 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
-local=/chiyouranai.base.shop/
-local=/tokujiro.base.shop/
-local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -1920,15 +1917,6 @@ local=/qiejushuo.hirz.cn/
 local=/ko.hissesgestapo.com/
 local=/sl.hitchdong.com/
 local=/jt.hitchelunspun.com/
-local=/app-google-zh.hl.cn/
-local=/go-todesk.hl.cn/
-local=/google-google-chrome-google-com.hl.cn/
-local=/line-go.hl.cn/
-local=/qh-qishuiyinyue.hl.cn/
-local=/qishuimusic-cn.hl.cn/
-local=/todesk-web.hl.cn/
-local=/todesk-zh.hl.cn/
-local=/zh-todesk-cn.hl.cn/
 local=/map.hnchj.com/
 local=/m10.hoes.tube/
 local=/yy.hogacotset.com/
@@ -2070,7 +2058,6 @@ local=/vlvrq.instababe.net/
 local=/ua.instalcrozers.com/
 local=/verificacao.institutoanalisebr.com/
 local=/oxwnk.intrlgulngdate.com/
-local=/access.invite-track.click/
 local=/gzklo.ionlyloves.net/
 local=/llmqba.ionlyloves.net/
 local=/raxqx.ionlyloves.net/
@@ -12219,6 +12206,7 @@ local=/aqxlkc.com/
 local=/arabcuff.com/
 local=/arabicc.net/
 local=/arabix.cyou/
+local=/arabizeactors.cfd/
 local=/arabsewing.com/
 local=/arabweb.biz/
 local=/aralaran.com/
@@ -13599,6 +13587,7 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
+local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -19945,6 +19934,7 @@ local=/decimalupdated.com/
 local=/decisionlace.com/
 local=/decisionmark.com/
 local=/decisionnews.com/
+local=/decisive-gas.pro/
 local=/decisive-personal.pro/
 local=/decisivedrawer.com/
 local=/decisivefruit.pro/
@@ -22880,6 +22870,7 @@ local=/entterto.com/
 local=/entwithoughtsu.com/
 local=/enueduringhere.info/
 local=/enum.pro/
+local=/enurnyboxlike.qpon/
 local=/envious-attention.com/
 local=/envious-gap.pro/
 local=/envious-long.com/
@@ -28629,6 +28620,7 @@ local=/hktniatgor.com/
 local=/hkwrwuqlcpelq.site/
 local=/hkygalzumaqv.com/
 local=/hkzhongzhuangzhan.cc/
+local=/hl.cn/
 local=/hl2u.com/
 local=/hlbmaat.com/
 local=/hldijphcjszui.store/
@@ -30438,6 +30430,7 @@ local=/instructiveiron.pro/
 local=/instructorassemble.com/
 local=/instrumentfuseorphan.com/
 local=/instrumentproblembelieved.com/
+local=/instruments2333.com/
 local=/instrumenttactics.com/
 local=/insubstantial-mortgage.com/
 local=/insubstantialopportunity.pro/
@@ -30592,6 +30585,7 @@ local=/invinciblerussia.com/
 local=/invinciblesemicolonrancorous.com/
 local=/invitationrainbowparting.com/
 local=/invitationsattest.com/
+local=/invite-track.click/
 local=/invitedexamine.com/
 local=/inviteprodigalpinprick.com/
 local=/invites-tracker-app.com/
@@ -52820,6 +52814,7 @@ local=/vazypteke.pro/
 local=/vbcojhroxkoaf.online/
 local=/vbjibjsftqxkq.site/
 local=/vbjivl.icu/
+local=/vbkeloids.qpon/
 local=/vbnmsilenitmanby.info/
 local=/vbs-protect.pro/
 local=/vbs2.biz/
@@ -54416,6 +54411,7 @@ local=/whimteegy.net/
 local=/whineinstallssubdued.com/
 local=/whinemalnutrition.com/
 local=/whiningconfessed.com/
+local=/whiningperkdisagreeable.com/
 local=/whipozuwie.com/
 local=/whippedbetraygranddaughter.com/
 local=/whiprayoutkill.com/

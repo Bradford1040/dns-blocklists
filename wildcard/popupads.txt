@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 06:53 UTC
-# Version: 2026.0627.0653.46
+# Last modified: 27 Jun 2026 18:06 UTC
+# Version: 2026.0627.1806.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57255
+# Number of entries: 57251
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -450,9 +450,6 @@
 *.darian.bantengan.xyz
 *.uc.barbelfaldfee.com
 *.do.barmfellists.com
-*.chiyouranai.base.shop
-*.tokujiro.base.shop
-*.uranai1111.base.shop
 *.ah.basothomug.com
 *.bv.basquedbeloam.com
 *.ck.bastardzingaro.com
@@ -1920,15 +1917,6 @@
 *.ko.hissesgestapo.com
 *.sl.hitchdong.com
 *.jt.hitchelunspun.com
-*.app-google-zh.hl.cn
-*.go-todesk.hl.cn
-*.google-google-chrome-google-com.hl.cn
-*.line-go.hl.cn
-*.qh-qishuiyinyue.hl.cn
-*.qishuimusic-cn.hl.cn
-*.todesk-web.hl.cn
-*.todesk-zh.hl.cn
-*.zh-todesk-cn.hl.cn
 *.map.hnchj.com
 *.m10.hoes.tube
 *.yy.hogacotset.com
@@ -2070,7 +2058,6 @@
 *.ua.instalcrozers.com
 *.verificacao.institutoanalisebr.com
 *.oxwnk.intrlgulngdate.com
-*.access.invite-track.click
 *.gzklo.ionlyloves.net
 *.llmqba.ionlyloves.net
 *.raxqx.ionlyloves.net
@@ -12219,6 +12206,7 @@
 *.arabcuff.com
 *.arabicc.net
 *.arabix.cyou
+*.arabizeactors.cfd
 *.arabsewing.com
 *.arabweb.biz
 *.aralaran.com
@@ -13599,6 +13587,7 @@
 *.bartramagynous.com
 *.barytemarkup.com
 *.barytethynnid.com
+*.base.shop
 *.baseballletters.com
 *.basejudgementquizmaster.com
 *.basementunfamiliar.com
@@ -19945,6 +19934,7 @@
 *.decisionlace.com
 *.decisionmark.com
 *.decisionnews.com
+*.decisive-gas.pro
 *.decisive-personal.pro
 *.decisivedrawer.com
 *.decisivefruit.pro
@@ -22880,6 +22870,7 @@
 *.entwithoughtsu.com
 *.enueduringhere.info
 *.enum.pro
+*.enurnyboxlike.qpon
 *.envious-attention.com
 *.envious-gap.pro
 *.envious-long.com
@@ -28629,6 +28620,7 @@
 *.hkwrwuqlcpelq.site
 *.hkygalzumaqv.com
 *.hkzhongzhuangzhan.cc
+*.hl.cn
 *.hl2u.com
 *.hlbmaat.com
 *.hldijphcjszui.store
@@ -30438,6 +30430,7 @@
 *.instructorassemble.com
 *.instrumentfuseorphan.com
 *.instrumentproblembelieved.com
+*.instruments2333.com
 *.instrumenttactics.com
 *.insubstantial-mortgage.com
 *.insubstantialopportunity.pro
@@ -30592,6 +30585,7 @@
 *.invinciblesemicolonrancorous.com
 *.invitationrainbowparting.com
 *.invitationsattest.com
+*.invite-track.click
 *.invitedexamine.com
 *.inviteprodigalpinprick.com
 *.invites-tracker-app.com
@@ -52820,6 +52814,7 @@
 *.vbcojhroxkoaf.online
 *.vbjibjsftqxkq.site
 *.vbjivl.icu
+*.vbkeloids.qpon
 *.vbnmsilenitmanby.info
 *.vbs-protect.pro
 *.vbs2.biz
@@ -54416,6 +54411,7 @@
 *.whineinstallssubdued.com
 *.whinemalnutrition.com
 *.whiningconfessed.com
+*.whiningperkdisagreeable.com
 *.whipozuwie.com
 *.whippedbetraygranddaughter.com
 *.whiprayoutkill.com

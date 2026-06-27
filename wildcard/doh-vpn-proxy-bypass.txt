@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 08:02 UTC
-# Version: 2026.0625.0802.21
+# Last modified: 27 Jun 2026 19:18 UTC
+# Version: 2026.0627.1918.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17227
+# Number of entries: 17228
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -16192,6 +16192,7 @@
 *.vpn-shield.help
 *.vpn-simple.com
 *.vpn-sky.info
+*.vpn-th.net
 *.vpn-tn.com
 *.vpn-toggle.com
 *.vpn-tube.com

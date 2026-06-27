@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 08:02 UTC
-# Version: 2026.0625.0802.21
+# Last modified: 27 Jun 2026 19:18 UTC
+# Version: 2026.0627.1918.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17227
+# Number of entries: 17228
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -16192,6 +16192,7 @@ local=/vpn-service.us/
 local=/vpn-shield.help/
 local=/vpn-simple.com/
 local=/vpn-sky.info/
+local=/vpn-th.net/
 local=/vpn-tn.com/
 local=/vpn-toggle.com/
 local=/vpn-tube.com/

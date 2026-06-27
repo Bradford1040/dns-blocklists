@@ -6930,6 +6930,13 @@
       }
     },
     {
+      "PK": "sem.city",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sentry.shop",
       "action": {
         "do": 1,
